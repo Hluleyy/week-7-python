@@ -1,0 +1,6 @@
+#strings
+
+messege = """Hluleyy's World
+is cool"""
+
+print(messege)
